@@ -12,7 +12,7 @@ Requirement:
 
 Build:
 
-        1.mkdir & cd build
+	1.mkdir & cd build
 
 	2.cmake ..
 	
